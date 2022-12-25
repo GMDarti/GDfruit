@@ -2,7 +2,10 @@ p {
     color: greenyellow;
 }
 h2 {
-    color: rgb();
+    color: rgb(232, 0, 224);
+}
+k {
+  color: cyan;
 }
 .exampleone {
     background-color: black;
